@@ -15,7 +15,7 @@ export default function Home() {
 
       <div className="relative z-10 flex max-w-4xl flex-col items-center gap-10 px-4 text-center">
         <div className="space-y-6">
-          <h1 className="text-4xl font-bold leading-tight tracking-tight sm:text-6xl">
+          <h1 className="text-4xl font-bold leading-tight tracking-tight text-emerald-400 sm:text-6xl">
             <span className="block">Powering the Future</span>
             <span className="block">of Cloud Infrastructure</span>
           </h1>
